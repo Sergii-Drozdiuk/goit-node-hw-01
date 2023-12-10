@@ -1,7 +1,5 @@
 # goit-node-hw-01
 
-goit-node-hw-01
-
 Screenshots-link: https://monosnap.com/list/6575dfaa7d7265907bc7c21b;
 
 List: https://monosnap.com/file/y8spQfAKfz0VHXOyeGBqJorDqJAaXx;
